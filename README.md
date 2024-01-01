@@ -1,5 +1,8 @@
--  Hello 👋, My name is Temitayo
--  a passionate web developer enthusiastic about creating beautiful and functional web experiences
+# Hello 👋, My name is Temitayo
+
+A passionate web developer enthusiastic about creating beautiful and functional web experiences.
+
+# 💫About Me
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
