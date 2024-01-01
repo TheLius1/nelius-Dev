@@ -1,8 +1,8 @@
-# Hello 👋, My name is Temitayo 
+__Hello 👋, My name is Temitayo__
 
 A passionate web developer enthusiastic about creating beautiful and functional web experiences.
 
-# 💫About Me
+__💫About Me__
 I have a background in Computer science and a deep love for frontend development. My interests lie in crafting user-friendly interfaces and diving into the world of JavaScript frameworks
 
 __Skills__
@@ -12,13 +12,14 @@ __Skills__
 - TAILWIND CSS
 
 __🔍Insights__
-- 👀 I’m interested in learning Web3
-- 🌱 I’m currently learning JavaScript 
+- 👀 I’m interested in learning Web3 and Blockchain technology 
+- 🌱 I’m currently learning JavaScript through online courses 
 - 🔭 I'm currently working on a smartwatch website
-- 💼 How to reach me:
-  Whatsapp: 09013223385
+- 💼 Open to collaboration on existing web projects 
 
-<!---
-nelius-Dev/nelius-Dev is a ✨ special ✨ reposit BOTHory because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+__📫 How to reach me__
+- Twitter: @CodeSavant_1
+- Whatsapp: 09013223385
+- Email: theonlylius9@gmail.com
+
+
