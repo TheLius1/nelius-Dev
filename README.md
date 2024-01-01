@@ -10,10 +10,10 @@ I have a background in Computer science and a deep love for frontend development
 - CSS
 - BOOTSTRAP
 - TAILWIND CSS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+🔍Insights
+- 👀 I’m interested in learning Web3
+- 🌱 I’m currently learning JavaScript 
 
 <!---
 nelius-Dev/nelius-Dev is a ✨ special ✨ reposit BOTHory because its `README.md` (this file) appears on your GitHub profile.
