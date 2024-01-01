@@ -5,7 +5,7 @@ A passionate web developer enthusiastic about creating beautiful and functional 
 # 💫About Me
 I have a background in Computer science and a deep love for frontend development. My interests lie in crafting user-friendly interfaces and diving into the world of JavaScript frameworks
 
-# Skills
+** Skills **
 - HTML
 - CSS
 - BOOTSTRAP
